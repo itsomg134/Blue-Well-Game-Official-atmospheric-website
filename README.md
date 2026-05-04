@@ -7,10 +7,6 @@
 
 > **Descend into the mystery.** A fully responsive, interactive landing page for the fictional puzzle-adventure game *Blue Well* — built with pure HTML, CSS, and vanilla JS.
 
-![Preview Screenshot](https://via.placeholder.com/800x400?text=Blue+Well+Game+Website+Preview)  
-*(Replace with actual screenshot of your live page)*
-
- **Live demo:** *[Add your GitHub Pages / Netlify link here]*  
 
 ---
 
@@ -28,7 +24,7 @@ The page features:
 
 ---
 
-## ✨ Key features
+##  Key features
 
 - **Hero section** – Bold typography, animated well artifact, call‑to‑action buttons.
 - **Feature grid** – Highlights core gameplay pillars (riddles, atmosphere, lore, multiple endings).
