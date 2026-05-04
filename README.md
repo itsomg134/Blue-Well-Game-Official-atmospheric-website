@@ -7,6 +7,7 @@
 
 > **Descend into the mystery.** A fully responsive, interactive landing page for the fictional puzzle-adventure game *Blue Well* — built with pure HTML, CSS, and vanilla JS.
 
+<img width="1897" height="3130" alt="image" src="https://github.com/user-attachments/assets/82e2cb9b-4773-48d8-909c-6accc544e42d" />
 
 ---
 
