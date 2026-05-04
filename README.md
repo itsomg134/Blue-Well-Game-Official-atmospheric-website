@@ -39,7 +39,7 @@ The page features:
 
 ---
 
-## 🛠️ Built with
+##  Built with
 
 | Technology | Purpose |
 |------------|---------|
@@ -53,7 +53,7 @@ No frameworks, no build steps – open `index.html` and it runs everywhere.
 
 ---
 
-## 📁 File structure
+##  File structure
 
 ```
 blue-well-game-website/
@@ -65,7 +65,7 @@ Because all styles and scripts are embedded in a single HTML file, serving or sh
 
 ---
 
-## 🚀 Getting started
+##  Getting started
 
 ### 1. Clone the repository
 
@@ -87,7 +87,7 @@ cd blue-well-game-website
 
 ---
 
-## 🎨 Customization ideas
+##  Customization ideas
 
 - **Replace the well icon** – Change the `<i class="fas fa-dungeon"></i>` inside `.well-artifact` to any Font Awesome icon (`fa-water`, `fa-well`, `fa-moon`).
 - **Update gallery images** – Replace the icon‑based previews with real screenshots (add `<img>` tags inside `.screenshot-img`).
@@ -96,7 +96,7 @@ cd blue-well-game-website
 
 ---
 
-## 📱 Responsive breakpoints
+##  Responsive breakpoints
 
 | Device      | Optimization                         |
 |-------------|--------------------------------------|
@@ -108,7 +108,7 @@ Tested on Chrome, Firefox, Safari, and Edge.
 
 ---
 
-## 🔮 Easter eggs & interactivity
+##  Easter eggs & interactivity
 
 | Action                         | Result                                                   |
 |--------------------------------|----------------------------------------------------------|
@@ -121,13 +121,13 @@ Tested on Chrome, Firefox, Safari, and Edge.
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the **MIT License**. See `LICENSE` file for more information (you can add one, or simply state: *Feel free to use, modify, and share — attribution appreciated*).
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - Font Awesome for the incredible icon set.
 - Google Fonts for the typography.
@@ -135,19 +135,16 @@ Distributed under the **MIT License**. See `LICENSE` file for more information (
 
 ---
 
-## 📬 Contact & contribution
+##  Contact
 
-This is a front‑end demo project. If you find a bug or want to improve interactions:
+Om Gedam
 
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/amazing-fix`).
-3. Commit your changes.
-4. Push and open a Pull Request.
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-For questions or suggestions, feel free to open an **Issue** on GitHub.
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
----
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
 
-**Blue Well** – *What you seek is not what you'll find.*  
-⬇️ Drop a ⭐ if you like the atmosphere!
-```
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
